@@ -1,0 +1,303 @@
+{
+                "items": [{
+                    "id": "4585",
+                    "name": "Xiaomi Redmi 12 8GB/128GB",
+                    "taxonomy": ["Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 4790000.0,
+                    "unit_sale_price": 3490000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/xiaomi-redmi-12-8gb-128gb",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/06/04/remi12-a.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4552",
+                    "name": "Xiaomi Redmi 12 4GB/128GB",
+                    "taxonomy": ["Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 4290000.0,
+                    "unit_sale_price": 2990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/xiaomi-redmi-12-4gb-128gb",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/06/04/remi12-a.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3629",
+                    "name": "Xiaomi 14 Ultra 16GB/512GB - Chính hãng",
+                    "taxonomy": ["Xiaomi 14 Series", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 3.299E+07,
+                    "unit_sale_price": 2.999E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-14-ultra",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/10/xiaomi-14-ultra.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4517",
+                    "name": "POCO C65 (8GB/256GB) - Chính hãng",
+                    "taxonomy": ["Điện thoại", "Xiaomi", "Pocophone"],
+                    "currency": "VND",
+                    "unit_price": 3590000.0,
+                    "unit_sale_price": 2990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/poco-c65-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/05/31/c65-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3630",
+                    "name": "Xiaomi 14 (12GB/256GB) - Chính hãng",
+                    "taxonomy": ["Xiaomi 14 Series"],
+                    "currency": "VND",
+                    "unit_price": 2.299E+07,
+                    "unit_sale_price": 1.999E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/xiaomi-14-12gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/09/xiaomi-14.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4112",
+                    "name": "POCO X6 5G (8GB/256GB) - Chính hãng",
+                    "taxonomy": ["Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 8490000.0,
+                    "unit_sale_price": 6990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/poco-x6-5g-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/27/poco-x6-5g.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4171",
+                    "name": "Redmi Note 13 Pro (8GB/128GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 13 Series"],
+                    "currency": "VND",
+                    "unit_price": 7290000.0,
+                    "unit_sale_price": 6290000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/redmi-note-13-pro-8gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/02/20/redmi-note-13-pro.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4062",
+                    "name": "Redmi Note 13 Pro+ 5G (8GB/256GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 13 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 1.099E+07,
+                    "unit_sale_price": 9290000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/redmi-note-13-pro-plus-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/03/redmi-note-13-pro-plus-5g.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3785",
+                    "name": "Xiaomi 13T (12GB/256GB) - Chính hãng",
+                    "taxonomy": ["Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 1.299E+07,
+                    "unit_sale_price": 1.099E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-13t-12gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/09/20/13t.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3928",
+                    "name": "Redmi 13C (6GB/128GB) - Chính hãng",
+                    "taxonomy": ["Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 3490000.0,
+                    "unit_sale_price": 3090000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-redmi-13c-6gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/11/08/xiaomi-redmi-13c-18.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4061",
+                    "name": "Redmi Note 13 (6GB/128GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 13 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 4890000.0,
+                    "unit_sale_price": 4290000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/redmi-note-13-6gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/04/redmi-note-13.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4272",
+                    "name": "Redmi A3 (4GB/128GB) - Chính hãng",
+                    "taxonomy": ["Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": null,
+                    "unit_sale_price": 2690000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-a3-4gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/28/redmi-a3.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4189",
+                    "name": "Redmi A2+ (3GB/64GB) - Chính hãng",
+                    "taxonomy": ["Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 2790000.0,
+                    "unit_sale_price": 1990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/redmi-a2-series-3gb-64gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/02/24/redmi-a2-plus.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3502",
+                    "name": "Redmi Note 12 (8GB/128GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 12 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 5790000.0,
+                    "unit_sale_price": 3990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-note-12-8gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/03/24/redminote12-0.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3258",
+                    "name": "Redmi Note 12 (4GB/128GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 12 Series", "KM Samsung  + Xiaomi", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 4990000.0,
+                    "unit_sale_price": 3590000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-note-12-4gb-128gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/03/24/redminote12-0.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3259",
+                    "name": "Redmi Note 12 Pro 5G (8GB/256GB) - Chính hãng",
+                    "taxonomy": ["Redmi Note 12 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 9490000.0,
+                    "unit_sale_price": 7290000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-note-12-pro-5g-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/03/24/redminote12pro5g-0.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3093",
+                    "name": "Xiaomi 13 Lite (8GB/256GB) - Chính hãng",
+                    "taxonomy": ["Xiaomi 13 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 1.149E+07,
+                    "unit_sale_price": 8890000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-13-Lite-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/02/27/thumb-xiaomi-13-lite.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "1675",
+                    "name": "Redmi Note 11 Pro 5G (8GB/128GB) - Chính hãng",
+                    "taxonomy": ["Lễ hội mua sắm Xiaomi", "Redmi Note 11 Series", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 8990000.0,
+                    "unit_sale_price": 5590000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-note-11-pro-5g-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2022/02/17/note-11-pro-5g-2.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "1444",
+                    "name": "POCO M4 Pro 5G  (4GB/64GB) - Chính hãng",
+                    "taxonomy": ["Sản phẩm độc quyền", "Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 5490000.0,
+                    "unit_sale_price": 4290000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/xiaomi-poco-m4-pro-5G",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2021/12/23/k16yellowzhengmianfront.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3657",
+                    "name": "Redmi A2 (2GB/32GB) - Chính hãng",
+                    "taxonomy": ["Điện thoại", "Xiaomi"],
+                    "currency": "VND",
+                    "unit_price": 2190000.0,
+                    "unit_sale_price": 1690000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/redmi-a2-2gb-32gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2023/08/29/redmi-a2-gray-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }]
+            }

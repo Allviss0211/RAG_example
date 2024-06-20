@@ -1,0 +1,303 @@
+ {
+                "items": [{
+                    "id": "4079",
+                    "name": "Samsung Galaxy S24 Ultra - 12GB/512GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 3.749E+07,
+                    "unit_sale_price": 3.349E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-Ultra-12gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-ultra-vang_638409930027889246.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4195",
+                    "name": "Samsung Galaxy S24 Ultra - 12GB/256GB - Chính hãng (BHĐT)",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": null,
+                    "unit_sale_price": 2.499E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-ultra-chinh-hang-bhdt",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-ultra-vang_638409930027889246.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4149",
+                    "name": "Samsung Galaxy A55 - 8GB/128GB - Chính hãng",
+                    "taxonomy": ["Galaxy A Series", "Galaxy A mới"],
+                    "currency": "VND",
+                    "unit_price": 9990000.0,
+                    "unit_sale_price": 9690000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-a55-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/06/11/a55-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4038",
+                    "name": "Samsung Galaxy S24 Plus - 12GB/256GB - Chính hãng ",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 2.699E+07,
+                    "unit_sale_price": 2.599E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-plus-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-plus-tim.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4080",
+                    "name": "Samsung Galaxy S24 Ultra - 12GB/1TB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 4.449E+07,
+                    "unit_sale_price": 4.249E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-Ultra-12gb-1tb-chinh-hang",
+                    "stock": 0,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-ultra-vang_638409930027889246.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4037",
+                    "name": "Samsung Galaxy S24 - 8GB/256GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 2.299E+07,
+                    "unit_sale_price": 2.199E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/30/samsung-galaxy-s24-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4075",
+                    "name": "Samsung Galaxy S24 - 8GB/512GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 2.649E+07,
+                    "unit_sale_price": 2.549E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-8gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/30/samsung-galaxy-s24-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4078",
+                    "name": "Samsung Galaxy S24 Plus - 12GB/512GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 3.049E+07,
+                    "unit_sale_price": 2.949E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-plus-12gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-plus-tim.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4148",
+                    "name": "Samsung Galaxy A35 - 8GB/128GB - Chính hãng",
+                    "taxonomy": ["Galaxy A Series", "Galaxy A mới"],
+                    "currency": "VND",
+                    "unit_price": 8290000.0,
+                    "unit_sale_price": 7990000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-a35-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/06/11/a35-2.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4039",
+                    "name": "Samsung Galaxy S24 Ultra - 12GB/256GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S24 Series", "Điện thoại AI"],
+                    "currency": "VND",
+                    "unit_price": 3.399E+07,
+                    "unit_sale_price": 2.899E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s24-ultra-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/01/16/s24-ultra-vang_638409930027889246.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "2990",
+                    "name": "Samsung Galaxy S23 Ultra 8GB/256GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S23", "Samsung Galaxy S23 Ultra", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": 3.199E+07,
+                    "unit_sale_price": 2.399E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-s23-ultra-8gb-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/samsung-galaxy-s23-ultra.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4242",
+                    "name": "Samsung Galaxy S23 FE 5G 8GB/256GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S23", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": 1.689E+07,
+                    "unit_sale_price": 1.489E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s23-fe-5g-8gb-256gb",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/samsung-galaxy-s23-fe-1.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4055",
+                    "name": "Samsung Galaxy S23 FE 5G 8GB/128GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S23", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": 1.489E+07,
+                    "unit_sale_price": 1.289E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai/samsung-galaxy-s23-fe-5g-8gb-128gb",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/samsung-galaxy-s23-fe-2.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3943",
+                    "name": "Samsung Galaxy A25 5G - 6GB/128GB - Chính hãng",
+                    "taxonomy": ["Galaxy A Series", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": 6590000.0,
+                    "unit_sale_price": 6590000.0,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-a25-5G-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/06/11/a25-3.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3435",
+                    "name": "Samsung Galaxy Z Flip5 8GB/256GB - Chính hãng",
+                    "taxonomy": ["Z Flip 5", "Điện thoại gập Samsung", "Điện thoại gập", "Điện thoại"],
+                    "currency": "VND",
+                    "unit_price": 2.599E+07,
+                    "unit_sale_price": 1.699E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-z-flip5-256gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/28/z-flip5-kem.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "4071",
+                    "name": "Samsung Galaxy S23 Ultra 8GB/256GB - Chính hãng (BHĐT)",
+                    "taxonomy": ["Samsung Galaxy S23", "Samsung Galaxy S23 Ultra", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": null,
+                    "unit_sale_price": 2.299E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-s23-ultra-8gb-256gb-chinh-hang-BHĐT",
+                    "stock": 0,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/samsung-galaxy-s23-ultra.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3539",
+                    "name": "Samsung Galaxy Z Fold5 12GB/512GB - Chính hãng",
+                    "taxonomy": ["Z Fold 5", "Điện thoại gập Samsung", "Điện thoại gập", "Điện thoại"],
+                    "currency": "VND",
+                    "unit_price": 4.499E+07,
+                    "unit_sale_price": 3.099E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-z-fold5-12gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/z-fold5-3.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "2991",
+                    "name": "Samsung Galaxy S23 Ultra 12GB/512GB - Chính hãng",
+                    "taxonomy": ["Samsung Galaxy S23", "Samsung Galaxy S23 Ultra", "Điện thoại", "Samsung"],
+                    "currency": "VND",
+                    "unit_price": 3.699E+07,
+                    "unit_sale_price": 2.649E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-s23-ultra-12gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/samsung-galaxy-s23-ultra.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3541",
+                    "name": " Samsung Galaxy Z Flip5 8GB/512GB - Chính hãng",
+                    "taxonomy": ["Điện thoại gập Samsung", "Điện thoại gập", "Galaxy Z Fold5 | Z Flip5", "Điện thoại"],
+                    "currency": "VND",
+                    "unit_price": 2.999E+07,
+                    "unit_sale_price": 1.899E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-z-flip5-8gb-512gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/28/z-flip5-tim.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }, {
+                    "id": "3436",
+                    "name": "Samsung Galaxy Z Fold5 12GB/256GB - Chính hãng",
+                    "taxonomy": ["Z Fold 5", "Điện thoại gập Samsung", "Điện thoại gập", "Điện thoại"],
+                    "currency": "VND",
+                    "unit_price": 4.099E+07,
+                    "unit_sale_price": 2.899E+07,
+                    "url": "https://hoanghamobile.com/dien-thoai-di-dong/samsung-galaxy-z-fold5-256gb-12gb-chinh-hang",
+                    "stock": 999,
+                    "color": null,
+                    "size": null,
+                    "product_image_url": "https://hoanghamobile.comhttps://cdn.hoanghamobile.com/i/productlist/ts/Uploads/2024/03/29/z-fold5-4.png",
+                    "custom": {
+                        "merchandiser": "hoanghamobile"
+                    }
+                }]
+            }
