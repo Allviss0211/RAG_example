@@ -19,7 +19,7 @@ DB_NAME = os.getenv('DB_NAME')
 DB_COLLECTION = os.getenv('DB_COLLECTION')
 GEMINI_KEY = os.getenv('GEMINI_KEY')
 genai.configure(api_key=GEMINI_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-1.5-pro')
 
 client = pymongo.MongoClient(MONGODB_URI)
 db = client[DB_NAME] 
