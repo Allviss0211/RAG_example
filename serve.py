@@ -128,6 +128,10 @@ def to_markdown(text):
 def process_query(query):
     return query.lower()
 
+@app.route('/')
+def hello_world():
+    return 'Hello Allviss!'
+
 @app.route('/api/search', methods=['POST'])
 def handle_query():
     data = request.get_json()
